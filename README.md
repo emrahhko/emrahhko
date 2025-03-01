@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Emrah
-
 🚀 Aspiring Web Developer from Brussels! 🇧🇪
 
 🔧 Currently immersed in the world of **HTML**, **CSS**, **JavaScript**, and
